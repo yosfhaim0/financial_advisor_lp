@@ -2,6 +2,7 @@
   "name": "financial-advisor-landing-page",
   "version": "1.0.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@radix-ui/react-slot": "^1.0.2",
     "@radix-ui/react-toast": "^1.1.5",
