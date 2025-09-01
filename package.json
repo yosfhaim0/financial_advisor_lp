@@ -19,7 +19,6 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "scripts": {
-    "postinstall": "chmod +x node_modules/.bin/react-scripts",
     "start": "react-scripts start",
     "build": "node node_modules/react-scripts/bin/react-scripts.js build",
     "test": "react-scripts test",
