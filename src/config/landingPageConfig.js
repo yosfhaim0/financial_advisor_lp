@@ -116,8 +116,9 @@ export const landingPageConfig = {
     description: "מסייעים למשפחות ויחידים להגשים את החלומות הפיננסיים שלהם",
     contact: {
       phone: "050-3023337",
-      email: "hodaya22446688@gmail.com"
-     },
+      email: "hodaya22446688@gmail.com",
+      address: "רחוב הרצל 123, תל אביב"
+    },
     social: [
       {
         name: "Facebook",

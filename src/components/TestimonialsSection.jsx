@@ -75,8 +75,6 @@ const TestimonialsSection = ({ config }) => {
             </Card>
           ))}
         </div>
-
-        
       </div>
     </section>
   );
